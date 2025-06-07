@@ -1,0 +1,8 @@
+Package: repo2dockerProject
+Type: Package
+Title: Executable OSF Environment
+Version: 1.0
+Authors@R: c(person("Maintainer", "Example", email = "maintainer@example.com", role = c("aut", "cre")))
+Description: Automatically generated DESCRIPTION file for Repo2Docker.
+License: See license and authorship information at https://osf.io/c8vfj/
+Imports: BayesFactor, MBESS, TOSTER, car, colorblindr, cowplot, dplyr, ggplot2, grid, heplots, lattice, latticeExtra, lsr, plyr, readr, reshape2, 
